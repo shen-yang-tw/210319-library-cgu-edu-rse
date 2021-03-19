@@ -1,0 +1,9 @@
+Assets/
+Assets/*
+*.psd
+*.ai
+*.zip
+*複製*
+*old*
+*-i*
+.DS_Store
